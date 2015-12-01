@@ -1,0 +1,35 @@
+{
+  "name": "roughter",
+  "version": "0.0.1",
+  "description": "A router for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunocasanova/roughter.git"
+  },
+  "keywords": [
+    "roughter",
+    "router",
+    "routes",
+    "express",
+    "brunocasanova"
+  ],
+  "author": "Bruno Casanova <deftonicks_me@hotmail.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/brunocasanova/roughter/issues"
+  },
+  "homepage": "https://github.com/brunocasanova/roughter#readme",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "findhit-class": "^0.1.1",
+    "findhit-util": "^0.2.9"
+  },
+  "devDependencies": {
+    "debug": "^2.2.0",
+    "express": "^4.13.3"
+  }
+}
